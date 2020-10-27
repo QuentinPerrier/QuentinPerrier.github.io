@@ -5,7 +5,7 @@ main:
   - title: "A propos"
     url: /about/
   - title: "CV"
-    url: https://quentinperrier.github.io/documents/CV_Quentin_Perrier.pdf
+    url: https://quentinperrier.s3.amazonaws.com/documents/CV_Quentin_Perrier.pdf
 
   # - title: "Sample Collections"
   #   url: /collection-archive/
