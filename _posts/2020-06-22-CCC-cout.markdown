@@ -1,0 +1,17 @@
+---
+layout: posts
+title:  "Convention citoyenne : une ambition climat rehaussée, un coût raisonné"
+date:   2020-06-22 14:20:17 +0100
+categories: jekyll update
+---
+
+
+La Convention citoyenne pour le climat vient de rendre publiques ses propositions. L’ensemble des mesures proposées par les citoyens pourrait accélérer la transition bas-carbone, mais aussi contribuer au plan de relance de l’économie. Avec un impact sur les finances publiques raisonné, non négligeable mais bien loin d’un « plan Marshall », selon notre expert Quentin Perrier, qui a suivi de près les travaux de la Convention.
+
+Retrouvez la tribune sur le site d'[I4CE].
+
+Cette tribune a été reprise dans [le Monde].
+
+[I4CE]:https://www.i4ce.org/convention-citoyenne-une-ambition-climat-rehaussee-un-cout-raisonne/
+
+[le Monde]: https://www.lemonde.fr/planete/article/2020/06/24/combien-couteraient-les-propositions-de-la-convention-citoyenne-pour-le-climat_6044071_3244.html

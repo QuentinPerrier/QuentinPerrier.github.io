@@ -1,0 +1,16 @@
+---
+layout: posts
+title:  "Ne confondons pas « valeur tutélaire du carbone » et taxe carbone"
+date:   2020-02-18 14:20:17 +0100
+categories: jekyll update
+---
+
+
+Alors que le nouveau rapport Quinet va être remis officiellement ce lundi au Premier Ministre, il est utile de revenir sur le rôle de la « valeur tutélaire du carbone » ou – comme il faudra désormais l’appeler – de la « valeur d’action pour le climat ». 
+
+Une valeur tutélaire de, disons, 150 euros par tonne de CO2 signifie-t-elle qu’il faut mettre en place une taxe carbone de 150 euros/tCO2 ? La réponse est non. Alors à quoi sert-elle ? Tentative d’explication avec l’exemple du véhicule électrique.
+
+Retrouvez la tribune sur le site d'[I4CE].
+
+[I4CE]:https://www.i4ce.org/ne-confondons-pas-valeur-tutelaire-du-carbone-et-taxe-carbone/
+
