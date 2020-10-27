@@ -1,8 +1,6 @@
 ---
 title: "A propos"
 permalink: /about/
-header:
-	image:"/images/profile_pic.jpg"
 ---
 
 Je suis Quentin Perrier, docteur en économie, chercheur sur les questions de transition énergétique à l'Institut de l'Economie pour le climat (I4CE) et enseignant à Sciences Po.
