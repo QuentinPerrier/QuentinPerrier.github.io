@@ -1,7 +1,7 @@
 # main links
 main:
   - title: "A propos"
-    url: /apropos/
+    url: /about/
   - title: "CV"
     url: /documents/CV_Quentin_Perrier.pdf
   # - title: "Sample Posts"
