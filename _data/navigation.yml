@@ -1,11 +1,12 @@
 # main links
 main:
+  - title: "Publications"
+    url: /publications/
   - title: "A propos"
     url: /about/
   - title: "CV"
-    url: /documents/CV_Quentin_Perrier.pdf
-  - title: "Publications"
-    url: /publications/
+    url: https://quentinperrier.github.io/documents/CV_Quentin_Perrier.pdf
+
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
