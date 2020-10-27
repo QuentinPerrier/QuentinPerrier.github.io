@@ -1,0 +1,12 @@
+# main links
+main:
+  - title: "A propos"
+    url: /apropos/
+  - title: "CV"
+    url: /documents/CV_Quentin_Perrier.pdf
+  # - title: "Sample Posts"
+  #   url: /year-archive/
+  # - title: "Sample Collections"
+  #   url: /collection-archive/
+  # - title: "Sitemap"
+  #   url: /sitemap/
