@@ -1,6 +1,6 @@
 ---
 title: "A propos"
-permalink:/apropos/
+permalink: /about/
 header:
 	image:"/images/profile_pic.jpg"
 ---
