@@ -2,10 +2,13 @@
 main:
   - title: "Publications"
     url: /publications/
-  - title: "A propos"
-    url: /about/
+  - title: "Blog"
+    url: /blog/
   - title: "CV"
     url: https://quentinperrier.s3.amazonaws.com/documents/CV_Quentin_Perrier.pdf
+  - title: "A propos"
+    url: /about/
+
 
   # - title: "Sample Collections"
   #   url: /collection-archive/

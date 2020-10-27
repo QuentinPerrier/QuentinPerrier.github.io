@@ -15,7 +15,7 @@
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "en-US"
+locale                   : "fr-FR"
 title                    : "Quentin Perrier"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
@@ -94,7 +94,7 @@ analytics:
 # Site Author
 author:
   name             : "Quentin Perrier"
-  avatar           : "/images/profile_pic.jpg"
+  avatar           : "/images/profile_pic.jpeg"
   bio              : "Chercheur en économie sur le climat"
   location         : "Paris, France"
   email            :
@@ -279,6 +279,7 @@ defaults:
       comments: # true
       share: true
       related: true
+      show_date: true
 
   # _pages
   - scope:

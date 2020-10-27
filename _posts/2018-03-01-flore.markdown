@@ -1,0 +1,33 @@
+---
+layout: posts
+title:  "Mix électrique : Le modèle FLore"
+categories: Application
+---
+
+
+Combien faut-il rénover de réacteurs nucléaires en France ? 
+
+Les centrales nucléaires françaises atteignent aujourd’hui 40 ans, leur durée de vie initialement prévue. La question du futur de l’atome est donc à nouveau sur la table, après quarante ans d’une histoire héritée du premier choc pétrolier. EDF estime pouvoir rénover les réacteurs actuels afin de les prolonger jusqu’à 60 ans, grâce à une opération dite de « Grand Carénage » estimée à 100 milliards d’euros. Faut-il rénover ces centrales ? Ou plutôt, combien de centrales faut-il rénover, et lesquelles ?
+
+J'ai développé une application interactive qui présente les résultats obtenus avec le modèle FLORE. 
+
+Cette application est accessible ici : [https://qperrier.shinyapps.io/OnlineApp/](https://qperrier.shinyapps.io/OnlineApp/).
+
+<br/>
+
+Chaque simulation prend en réalité plusieurs heures, mais j'ai téléchargé directement les résultats sur cette application en ligne.
+
+Toutes les équations du modèle sont disponibles sur <a href="https://github.com/QuentinPerrier/Flore">GitHub</a>. J'ai porté un effort particulier à la reproductibilité des résultats. Il est ainsi possible de retrouver ces résultats à partir des données brutes au moyen d'une seul click.
+
+Pour prendre en compte la variabilité des renouvelables et les besoins de réserves, je suis les recommendations d'ENTSO-E (i.e. une approche probabiliste).
+
+Ce modèle présente bien sûr des limitations. En particulier, il ne représente que les technologies existantes. Le développement des éoliennes terrestres de nouvelle génération, de l'éolien en mer, des batteries ou de la biomasse peuvent faciliter le déploiement des énergies renouvelables variables. Je ne représente pas non plus la flexibilité apportée par les interconnexions et la gestion de la demande.
+
+Ce modèle a été développé pour mon article de recherche <a class="work" href = "http://www.feem.it/en/publications/feem-working-papers-note-di-lavoro-series/the-french-nuclear-bet/">The French nuclear bet</a>.
+
+<br/>
+
+<!-- <div class="shiny-app-frame">
+	<iframe src="https://qperrier.shinyapps.io/OnlineApp/" width="100%" height="1110px;" frameBorder="0">
+	</iframe>
+</div> -->
