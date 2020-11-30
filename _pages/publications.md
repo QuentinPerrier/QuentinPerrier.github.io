@@ -24,7 +24,7 @@ Energy economics / 2018 / Article scientifique
  - [«Zéro émissions nettes» : Signification et implications](http://documents.irevues.inist.fr/bitstream/handle/2042/68784/meteo_2018_103_26.pdf?sequence=1") <br/>
  La Météorologie / 2018 / Article scientifique
 			
- - [The second French nuclear bet]({{site.url}}/documents/French_nuclear_bet.pdf") <br/>
+ - [The second French nuclear bet](https://doi.org/10.1016/j.eneco.2018.07.014) <br/>
  Energy Economics / 2018 / Article scientifique
 
  - [Programmation pluriannuelle de l’énergie et transition du système électrique : diversification du mix et stratégie robuste](https://www.ecologique-solidaire.gouv.fr/sites/default/files/CEDD%20-%20S%20033.pdf) <br/>
@@ -33,7 +33,8 @@ Energy economics / 2018 / Article scientifique
   - [Penser la transition énergétique : stratégies robustes aux incertitudes et impacts sur l'emploi](https://s3.amazonaws.com/quentinperrier/dissertation.pdf)  <br/>
  Manuscrit de thèse / 2017
  
-  - [La transition énergétique est-elle favorable aux branches à fort contenu en emploi ? Une approche input-output pour la France]({{site.url}}/documents/Emplois_transition.pdf) <br/>
+  - [La transition énergétique est-elle favorable aux branches à fort contenu en emploi ? Une approche input-output pour la France](https://doi.org/10.3917/redp.275.0851) 
+  <br/>
  Revue d'Economie Politique / 2017 / Article scientifique
  
  <br/>
