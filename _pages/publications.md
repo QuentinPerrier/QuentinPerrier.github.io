@@ -1,8 +1,10 @@
 ---
-title: "Publications"
+title: "Publications scientifiques et rapports"
 permalink: /publications/
 ---
 
+ - [How Sensitive are Optimal Fully Renewable Power Systems to Technology Cost Uncertainty?](https://doi.org/10.5547/01956574.43.1.bshi) <br/>
+The Energy Journal / 2020 / Article scientifique
 
  - [Investir en faveur du climat contribuera à la sortie de crise](https://www.i4ce.org/download/investissements-climat-dans-la-sortie-de-crise-covid19/) <br/>
  I4CE / 2020 / Rapport
