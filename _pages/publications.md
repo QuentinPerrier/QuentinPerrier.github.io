@@ -3,6 +3,13 @@ title: "Publications scientifiques et rapports"
 permalink: /publications/
 ---
 
+ - [Climat : retour sur 10 ans de dépenses de l’État](https://www.i4ce.org/download/climat-retour-sur-10-ans-de-depenses-de-letat/) 
+ <a href="https://www.i4ce.org/wp-core/wp-content/uploads/2021/06/I4CE-rapport_quinquenat-2.pdf" download>
+  <img src="/images/pdf.ico" width="20" alt="PDF">
+ </a>
+ <br/>
+ I4CE / 2021 / Rapport <br />
+
  - [How sensitive are optimal fully renewable power systems to technology cost uncertainty?](https://doi.org/10.5547/01956574.43.1.bshi) 
  <a href="https://quentinperrier.s3.amazonaws.com/documents/Renewable_Power_Systems.pdf" download>
   <img src="/images/pdf.ico" width="20" alt="PDF">
