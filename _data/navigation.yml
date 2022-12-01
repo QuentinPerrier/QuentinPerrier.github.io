@@ -4,8 +4,6 @@ main:
     url: /publications/
   - title: "Blog"
     url: /blog/
-  - title: "CV"
-    url: https://quentinperrier.s3.amazonaws.com/documents/CV_Quentin_Perrier.pdf
   - title: "A propos"
     url: /about/
 
