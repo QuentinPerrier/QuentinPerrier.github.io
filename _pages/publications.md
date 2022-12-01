@@ -3,6 +3,42 @@ title: "Publications scientifiques et rapports"
 permalink: /publications/
 ---
 
+- [Avis portant sur la modernisation du Traité sur la Charte de l'énergie (TCE)](https://www.hautconseilclimat.fr/publications/avis-sur-la-modernisation-du-traite-sur-la-charte-de-lenergie/)
+ <a href="https://www.hautconseilclimat.fr/wp-content/uploads/2022/10/2022-10-19_Avis-TCE_HCC.pdf" download>
+  <img src="/images/pdf.ico" width="20" alt="PDF">
+ </a>
+ <br/>
+ Haut conseil pour le climat  / 2021 / Rapport <br />
+
+
+- [Rapport annuel 2022](https://www.hautconseilclimat.fr/publications/rapport-annuel-2022-depasser-les-constats-mettre-en-oeuvre-les-solutions/)
+ <a href="https://www.hautconseilclimat.fr/wp-content/uploads/2022/06/Rapport-annuel-Haut-conseil-pour-le-climat-29062022.pdf" download>
+  <img src="/images/pdf.ico" width="20" alt="PDF">
+ </a>
+ <br/>
+ Haut conseil pour le climat  / 2021 / Rapport <br />
+
+- [Avis portant sur les plans climat des ministères](https://www.hautconseilclimat.fr/actualites/avis-portant-sur-les-plans-climat-des-ministeres/)
+ <a href="https://www.hautconseilclimat.fr/wp-content/uploads/2021/12/HCC_Avis-plans-climat.pdf" download>
+  <img src="/images/pdf.ico" width="20" alt="PDF">
+ </a>
+ <br/>
+ Haut conseil pour le climat  / 2021 / Rapport <br />
+
+ - [Rapport grand public 2021](https://www.hautconseilclimat.fr/publications/rapport-grand-public-2021/)
+ <a href="https://www.hautconseilclimat.fr/wp-content/uploads/2021/09/HCC_Rapport_GP_2021_web-1.pdf" download>
+  <img src="/images/pdf.ico" width="20" alt="PDF">
+ </a>
+ <br/>
+ Haut conseil pour le climat / 2021 / Rapport <br />
+
+ - [Bonus-malus automobile, la nécessaire évaluation, 2021](https://www.i4ce.org/publication/bonus-malus-automobile-evaluation-climat/)
+ <a href="https://www.i4ce.org/wp-content/uploads/I4CE_BonusMalusAutomobiles-2.pdf" download>
+  <img src="/images/pdf.ico" width="20" alt="PDF">
+ </a>
+ <br/>
+ I4CE / 2021 / Rapport <br />
+
  - [Climat : retour sur 10 ans de dépenses de l’État](https://www.i4ce.org/download/climat-retour-sur-10-ans-de-depenses-de-letat/) 
  <a href="https://www.i4ce.org/wp-core/wp-content/uploads/2021/06/I4CE-rapport_quinquenat-2.pdf" download>
   <img src="/images/pdf.ico" width="20" alt="PDF">
