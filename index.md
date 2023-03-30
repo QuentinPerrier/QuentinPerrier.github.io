@@ -3,13 +3,13 @@ layout: home
 author_profile: true
 ---
  
-Bienvenue sur mon site.
+Bonjour,
 
-Je suis Quentin Perrier, responsable des études au Haut Conseil pour le Climat, et précédemment chercheur à I4CE et au Cired.
+Sur ce site, vous pourrez trouvez mes <a href="https://quentinperrier.com/publications/">publications</a>. 
 
-Sur ce site, vous pourrez trouvez mes dernières analyses, mes publications et mon CV. 
+Vous pouvez également suivre mes analyses et décryptages sur <a href="https://twitter.com/QPerrier">Twitter</a> et <a href="https://www.linkedin.com/in/quentin-perrier/">LinkedIn</a> .
 
-Pour toute question, n'hésitez pas à me contacter par mail : quentin.perrier@hautconseilclimat.fr
+Pour toute question, n'hésitez pas à me contacter par mail : quentin.perrier [at] hautconseilclimat.fr
 
 <br/>
 
