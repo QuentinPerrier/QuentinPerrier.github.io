@@ -8,7 +8,6 @@ permalink: /publications/
  La Grande Conversation  / 2023 / Note d'analyse <br />
  
  - [An ex-ante evaluation of the French car feebate](https://www.sciencedirect.com/science/article/abs/pii/S0301421522005547)
- </a>
  <br/>
  Energy policy  / 2023 / Article scientifique <br />
 
