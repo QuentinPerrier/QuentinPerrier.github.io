@@ -5,7 +5,13 @@ permalink: /publications/
 
 - [Retours d’expérience de quatre ZFE européennes : Berlin, Bruxelles, Londres, Madrid](https://www.lagrandeconversation.com/debat/ecologie/zones-de-faible-emission-un-risque-dexclusion-sociale-dans-les-villes/#retours-dexperience-de-quatre-zfe-europeennes-berlin-bruxelles-londres-madrid)
  <br/>
- La Grande Conversation  / 2022 / Note d'analyse <br />
+ La Grande Conversation  / 2023 / Note d'analyse <br />
+ 
+ - [An ex-ante evaluation of the French car feebate](https://www.sciencedirect.com/science/article/abs/pii/S0301421522005547)
+ </a>
+ <br/>
+ Energy policy  / 2023 / Article scientifique <br />
+
 
 - [Avis portant sur la modernisation du Traité sur la Charte de l'énergie (TCE)](https://www.hautconseilclimat.fr/publications/avis-sur-la-modernisation-du-traite-sur-la-charte-de-lenergie/)
  <a href="https://www.hautconseilclimat.fr/wp-content/uploads/2022/10/2022-10-19_Avis-TCE_HCC.pdf" download>
