@@ -19,7 +19,7 @@ L’épisode 2023 remet une lumière crue sur le double défi de l’action publ
 
 En 2023, il a même été envisagé d’autoriser la vente à perte, avant d’enjoindre les distributeurs à céder les carburants à prix coûtant. Pour atténuer ces tensions, un audit de la fiscalité des carburants s’impose. En ouvrant cette boîte, il s’avère d’emblée que ces taxes répondent mal aux enjeux liés à la volatilité des prix à court et moyen termes, comme l’a rappelé la crise des « gilets jaunes ».
 
-#Taxe élastique, un barème reliant le taux de taxe au prix du baril
+# Taxe élastique, un barème reliant le taux de taxe au prix du baril
 
 Le choc de 2018 a certes conduit à pointer la hausse de la taxe carbone ; mais, on a occulté que, dans un contexte de doublement du prix du baril depuis 2016, la TVA a amplifié cette hausse, exacerbant les tensions sociales. Est-il nécessaire de maintenir un taux élevé de taxe quand les prix du marché s’envolent ? Non, car c’est bien le prix à la pompe qui oriente les comportements, et pas le taux de taxe. Et quand les prix s’effondrent, ne faudrait-il pas en revanche augmenter ces taux pour maintenir l’incitation à décarboner ?
 Lire aussi : Article réservé à nos abonnés Taxe sur les pétroliers : divergences entre le ministère des finances et la majorité parlementaire
@@ -29,7 +29,7 @@ Lire aussi : Le gouvernement prolonge l’aide « carburant » de 20 centimes pa
 
 C’est pourquoi il nous semble approprié de parler ici de « fiscalité élastique ». Cette taxe élastique prendrait la forme d’un barème reliant le taux de taxe au prix du baril, voté lors des lois de finances. Utiliser un barème plutôt qu’un taux fixe n’est pas entièrement nouveau : il s’apparente à ce qui est déjà pratiqué depuis 2008 pour le bonus-malus automobile, dont le montant dépend des émissions de CO2 par véhicule.
 
-#Améliorer l’acceptabilité de la fiscalité des carburants
+# Améliorer l’acceptabilité de la fiscalité des carburants
 
 Chaque année, le Parlement modifierait ce barème en fonction de ses objectifs en termes de décarbonation, d’efforts demandés aux automobilistes et du pilotage des recettes fiscales pour l’année à venir. Des simulations quantitatives montrent qu’avec une taxe suffisamment élastique, le prix à la pompe n’aurait pas dépassé 1,75 euro le litre en 2022. Si un tel dispositif avait été mis en œuvre à partir de 2010, il aurait eu un coût brut de l’ordre de 1,5 milliard d’euros par an pour les finances publiques.
 
