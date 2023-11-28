@@ -3,6 +3,17 @@ title: "Publications scientifiques et rapports"
 permalink: /publications/
 ---
 
+- [Une fiscalité élastique sur les carburants pour amortir les variations de prix](https://tnova.fr/ecologie/transition-energetique/une-fiscalite-elastique-sur-les-carburants-pour-amortir-les-variations-de-prix/)
+ <br/>
+ Terra Nova  / 2023 / Note d'analyse <br />
+
+ - [Rapport annuel 2023](https://www.hautconseilclimat.fr/publications/rapport-grand-public-2023//)
+ <a href="https://www.hautconseilclimat.fr/wp-content/uploads/2023/10/HCC_Rapport_GP_2023_VF_cor-1.pdf" download>
+  <img src="/images/pdf.ico" width="20" alt="PDF">
+ </a>
+ <br/>
+ Haut conseil pour le climat  / 2023 / Rapport <br />
+
 - [Retours d’expérience de quatre ZFE européennes : Berlin, Bruxelles, Londres, Madrid](https://www.lagrandeconversation.com/debat/ecologie/zones-de-faible-emission-un-risque-dexclusion-sociale-dans-les-villes/#retours-dexperience-de-quatre-zfe-europeennes-berlin-bruxelles-londres-madrid)
  <br/>
  La Grande Conversation  / 2023 / Note d'analyse <br />
