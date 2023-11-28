@@ -7,7 +7,7 @@ Bonjour,
 
 Sur ce site, vous pourrez trouvez mes <a href="https://quentinperrier.com/publications/">publications</a>. 
 
-Vous pouvez également suivre mes analyses et décryptages sur <a href="https://www.linkedin.com/in/quentin-perrier/">LinkedIn</a> .
+Vous pouvez également suivre mes analyses et décryptages sur l'onglet <a href="https://quentinperrier.com/blog/">Blog</a> et sur mon compte <a href="https://www.linkedin.com/in/quentin-perrier/">LinkedIn</a> .
 
 Pour toute question, n'hésitez pas à me contacter par mail : quentin.perrier [at] hautconseilclimat.fr
 
